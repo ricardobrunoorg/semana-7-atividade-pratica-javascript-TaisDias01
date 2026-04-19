@@ -10,7 +10,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1919" height="1020" alt="Atividade Diw" src="https://github.com/user-attachments/assets/04afe9ac-d23b-49a4-88d8-babceeb1a115" />
+
 
 
 
